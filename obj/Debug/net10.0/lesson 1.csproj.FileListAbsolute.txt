@@ -1,0 +1,15 @@
+/Users/rizoakramov/Desktop/lesson 1/bin/Debug/net10.0/lesson 1
+/Users/rizoakramov/Desktop/lesson 1/bin/Debug/net10.0/lesson 1.deps.json
+/Users/rizoakramov/Desktop/lesson 1/bin/Debug/net10.0/lesson 1.runtimeconfig.json
+/Users/rizoakramov/Desktop/lesson 1/bin/Debug/net10.0/lesson 1.dll
+/Users/rizoakramov/Desktop/lesson 1/bin/Debug/net10.0/lesson 1.pdb
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/lesson 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/lesson 1.AssemblyInfoInputs.cache
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/lesson 1.AssemblyInfo.cs
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/lesson 1.csproj.CoreCompileInputs.cache
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/lesson 1.sourcelink.json
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/lesson 1.dll
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/refint/lesson 1.dll
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/lesson 1.pdb
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/lesson 1.genruntimeconfig.cache
+/Users/rizoakramov/Desktop/lesson 1/obj/Debug/net10.0/ref/lesson 1.dll
